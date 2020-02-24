@@ -22,3 +22,6 @@
 `modules/cab/fb_auth_in.php`
 
 `modules/cab/fb_auth_user.php`
+
+## Кеширование данных
+`modules/testcache/main.php`
