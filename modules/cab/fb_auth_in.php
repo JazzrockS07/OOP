@@ -2,9 +2,9 @@
 
 $config_social = array(
     "fb" => array (
-        "id" => 2335635723433028,
-        "redirect_url" => "https://krihitki.com.ua/cab/fb_auth_in",
-        "secret" => "c4fb1cb353fb325324fb772de4d434da"
+        "id" => .............,
+        "redirect_url" => "https://..............",
+        "secret" => "............."
     )
 );
 
