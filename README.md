@@ -13,6 +13,8 @@
 
 `library/Date/MyDateAdapter.php`
 
+`modules/news/all.php`
+
 
 ## Авторизация на сайте с помощью API facebook
 `modules/cab/fb_auth.php`
